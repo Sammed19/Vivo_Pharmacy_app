@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'theSansB';
+    src: url('./assets/fonts/theSansB.woff2') format('woff2'),
+         url('./assets/fonts/theSansB.woff') format('woff'),
+         url('./assets/fonts/theSansB.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  

@@ -1,0 +1,73 @@
+[
+    {
+      "label": "Home",
+      "icon": "Home",
+      "link": "https://www.google.com/maps",
+      "active": true
+    },
+    {
+      "label": "Rx",
+      "icon": "Rx",
+      "link": "#"
+    },
+    {
+      "label": "Find Care",
+      "icon": "search",
+      "link": "#"
+    },
+    {
+      "label": "Me",
+      "icon": "Me",
+      "link": "#"
+    },
+    {
+      "label": "Pharmacy",
+      "icon": "Pharmacy",
+      "link": "#"
+    },
+    {
+      "label": "MyBenefits",
+      "icon": "Mybenefits",
+      "link": "#"
+    },
+    {
+      "label": "Pharmacy Location",
+      "icon": "Pharmacylocation",
+      "link": "#"
+    },
+    {
+      "label": "Communication Preferences",
+      "icon": "Communicationpreferances",
+      "link": "#"
+    },
+    {
+      "label": "Account Settings",
+      "icon": "Accountsettings",
+      "link": "#",
+      "dropdown": [
+        {
+          "label": "Patient Account",
+          "link": "#"
+        },
+        {
+          "label": "Caretaker Account",
+          "link": "#"
+        },
+        {
+          "label": "Pharmacy Account",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "label": "Help & Support",
+      "icon": "Helpsupport",
+      "link": "#"
+    },
+    {
+      "label": "About App",
+      "icon": "Aboutapp",
+      "link": "#"
+    }
+  ]
+  
